@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837309448561",
+    "firebase_url": "https://prosjektoppgave-i-owais-default-rtdb.firebaseio.com",
+    "project_id": "prosjektoppgave-i-owais",
+    "storage_bucket": "prosjektoppgave-i-owais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837309448561:android:22290e61bfe86aebcef6d0",
+        "android_client_info": {
+          "package_name": "com.example.todolistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837309448561-3kv5v7rst33ea34q6sl6nl5bmq26kon2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXFTCpGD9HK0udVnqCWMHffdnqf1zyfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837309448561-3kv5v7rst33ea34q6sl6nl5bmq26kon2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
